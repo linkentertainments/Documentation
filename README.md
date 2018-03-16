@@ -11,10 +11,4 @@ uip Documents http://www.unlimitedip.io
 - 
 
 
-## Q2, 2018
-- 
-
-
-## Q3, 2018
-- 
 
