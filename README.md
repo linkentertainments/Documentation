@@ -7,9 +7,9 @@ uip Documents http://www.unlimitedip.io
 
 
 # Unlimitedip  Introduction
-[ English  ](https://github.com/linkentertainments/Documentation/blob/master/%E6%9C%AA%E6%9D%A5%E7%89%88%E6%9D%83%E7%AE%80%E4%BB%8B-%E8%8B%B1.docx).  
+[ The  introduction  of  UIP  in English  ](https://github.com/linkentertainments/Documentation/blob/master/The%20%20introduction%20%20of%20%20UIP%20%20in%20English%20%20..docx).  
 
-[ Chinese  ](https://github.com/linkentertainments/Documentation/blob/master/The%20%20introduction%20%20of%20%20UIP%20%20in%20%20Chinese%20..docx).
+[ The  introduction  of  UIP  in  Chinese ](https://github.com/linkentertainments/Documentation/blob/master/The%20%20introduction%20%20of%20%20UIP%20%20in%20%20Chinese%20..docx).
 
 
 
