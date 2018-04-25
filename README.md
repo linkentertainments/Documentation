@@ -11,7 +11,7 @@ uip Documents http://www.unlimitedip.io
 
 [UnlimitedIP Intro](https://github.com/baizhanting/Documentation/blob/master/UnlimitedIP%20Intro.md)
 
-![UnlimitedEOS intro](https://github.com/linkentertainments/Documentation/blob/master/UnlimitedEOS%20intro.md)
+![EOS BP Campaign](https://github.com/linkentertainments/Documentation/blob/master/UnlimitedEOS%20intro.md)
 
 
 
