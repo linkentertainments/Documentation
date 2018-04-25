@@ -9,7 +9,7 @@ uip Documents http://www.unlimitedip.io
 # Unlimitedip  Introduction
 [ The  introduction  of  UIP  in English  ](https://github.com/linkentertainments/Documentation/blob/master/The%20%20introduction%20%20of%20%20UIP%20%20in%20English%20%20..docx).  
 
-[ The  introduction  of  UIP  in  Chinese ](https://github.com/linkentertainments/Documentation/blob/master/The%20%20introduction%20%20of%20%20UIP%20%20in%20%20Chinese%20..docx).
+
 
 
 
