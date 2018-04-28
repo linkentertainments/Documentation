@@ -10,6 +10,8 @@ UIP Documents http://www.unlimitedip.io
 
 ![周报427](https://github.com/linkentertainments/Documentation/blob/master/%E5%91%A8%E6%8A%A5427.md)
 
+![Weekly427](https://github.com/linkentertainments/Documentation/blob/master/Weekly427.md)
+
 
 # Unlimitedip  Introduction
 [未来版权简介](https://github.com/baizhanting/Documentation/blob/master/%E6%9C%AA%E6%9D%A5%E7%89%88%E6%9D%83%E7%AE%80%E4%BB%8B.md)
