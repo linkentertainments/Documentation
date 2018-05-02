@@ -68,13 +68,17 @@ Ps: If you want to share your thoughts with group member just contact our suppor
 ## Contact us
 
 
-Official Website:[未来版权](http://unlimitedip.com.cn)
+Official Website:[链娱科技](http://unlimitedip.com.cn)
+
+Official Website:[未来版权](http://uip.store)
+
+Official Website:[Uip Token Sell](http://unlimitedip.io)
+
+Official Website:[UnlimitedEOS](http://unlimitedeos.com)
 
 Telegram:[UIPworld](https://t.me/UIPworld)
 
 Telegram:[UIPEnglish](https://t.me/UIPEnglish)
-
-Knowledge Planet:[未来版权](https://t.xiaomiquan.com/nunUVvF)
 
 Steemit：[uipofficial](https://steemit.com/@uipofficial)
 
@@ -84,5 +88,11 @@ Twiiter:[UnlimitedIP](https://twitter.com/UIP_Official)
 
 Facebook:[UnlimitedIP](https://www.facebook.com/Unlimitedip-282278292298208/)
 
+Wechat:链娱科技/未来版权(IPStock)/全球UIP(UIP_token)
+
+Wechat Support: UnlimitedIP1
+
 BeeChat:[UIPworld](https://i.beechat.io/UIPworld)
+
+Knowledge Planet:[未来版权](https://t.xiaomiquan.com/nunUVvF)
 
