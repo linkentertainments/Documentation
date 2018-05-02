@@ -1,8 +1,7 @@
 
 # Official Website:
 
-## Uip Token Sell
-http://unlimitedip.io
+## Uip Token Sellhttp://unlimitedip.io
 
 
 
