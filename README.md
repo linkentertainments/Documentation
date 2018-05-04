@@ -18,7 +18,7 @@
 
 # Weekly
 
-！[周报504]（https://github.com/linkentertainments/Documentation/blob/master/0504%E5%91%A8%E6%8A%A5.md）
+![周报504]（https://github.com/linkentertainments/Documentation/blob/master/0504%E5%91%A8%E6%8A%A5.md）
 
 ![Weekly Update504](https://github.com/linkentertainments/Documentation/blob/1fbee41d83a706aacffca49d2ee718e75c2506c0/Weekly/Weekly504.md)
 
