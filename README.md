@@ -18,6 +18,8 @@
 
 # Weekly
 
+![Weekly Update504](https://github.com/linkentertainments/Documentation/commit/1fbee41d83a706aacffca49d2ee718e75c2506c0)
+
 ![周报427](https://github.com/linkentertainments/Documentation/blob/master/%E5%91%A8%E6%8A%A5427.md)
 
 ![Weekly Update427](https://github.com/linkentertainments/Documentation/blob/master/Weekly%20Update427.md)
