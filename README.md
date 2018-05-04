@@ -35,6 +35,10 @@
 
 # UnlimitedEOS
 
+![UnlimitedEOS被正式列入最新的BP候选名单](https://github.com/linkentertainments/Documentation/blob/master/UnlimitedEOS%E8%A2%AB%E6%AD%A3%E5%BC%8F%E5%88%97%E5%85%A5%E6%9C%80%E6%96%B0%E7%9A%84%E8%8A%82%E7%82%B9%E5%80%99%E9%80%89%E5%90%8D%E5%8D%95.md)
+
+![UnlimitedEOS is officially listed on newest BP Candidate list](https://github.com/linkentertainments/Documentation/blob/master/UnlimitedEOS%20is%20officially%20listed%20on%20newest%20BP%20Candidate%20list.md)
+
 ![UnlimitedEOS加入了节点候选者内部EOS主网测试群](https://github.com/linkentertainments/Documentation/blob/master/UnlimitedEOS%E5%8A%A0%E5%85%A5%E4%BA%86%E8%8A%82%E7%82%B9%E5%80%99%E9%80%89%E8%80%85%E5%86%85%E9%83%A8EOS%E4%B8%BB%E7%BD%91%E6%B5%8B%E8%AF%95%E7%BE%A4.md)
 
 ![EOS BP Campaign](https://github.com/linkentertainments/Documentation/blob/master/EOS%20BP%20Campaign.md)
