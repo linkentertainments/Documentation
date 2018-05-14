@@ -103,11 +103,11 @@ In addition, the alliance infrastructure and surrounding infrastructure have bee
  
 ### Contact us
 
-Official Website:[链娱科技]（http://unlimitedip.com.cn)
+Official Website:[链娱科技](http://unlimitedip.com.cn)
 
 Official Website:[未来版权](http://uip.store)
 
-Official Website:[Uip Token Sell)http://unlimitedip.io)
+Official Website:[Uip Token Sell](http://unlimitedip.io)
 
 Official Website:[UnlimitedEOS](http://unlimitedeos.com)
 
